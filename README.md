@@ -1,1 +1,1 @@
-This git repository is created ourely for the testing purpose of CI/CD learning.
+This git repository is created purely for the testing purpose of CI/CD learning.
